@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bondi-app",
-    "slug": "bondi-app",
+    "name": "ejercicio-bus",
+    "slug": "ejercicio-bus",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
